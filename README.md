@@ -1,7 +1,5 @@
 # App de transações
 
-commits were lost due to a repository transfer
-
 ## Requisitos
 
 - Listagem de transações
